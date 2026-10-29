@@ -226,3 +226,10 @@ footer { margin: 120px 0 40px; padding-top: 28px; border-top: 1px solid var(--li
   align-items: baseline; gap: 16px; flex-wrap: wrap; }
 footer .tagline { font-family: var(--display); font-size: 34px; }
 footer .meta a { color: var(--ink-2); }
+
+/* Episode facts: a quotable sentence plus a definition list, for readers and for AI assistants */
+.facts-block { background: var(--card); border-radius: var(--radius); box-shadow: var(--shadow); padding: 28px 30px; }
+.facts-block h2 { font-size: clamp(28px, 3vw, 36px); margin-bottom: 14px; }
+.facts-block .entity { font-size: 17px; line-height: 1.6; margin-bottom: 18px; }
+.facts-block dl { display: grid; grid-template-columns: 110px 1fr; gap: 8px 16px; font-size: 15px; }
+.facts-block dt { font-weight: 700; color: var(--ink-2); }

@@ -1,0 +1,804 @@
+[
+ {
+  "number": 32,
+  "title": "Watching Users So You Don’t Have To: Human Behavior, YC, and AI",
+  "url": "https://aiwithsach.com/episodes/32-watching-users-so-you-dont-have-to-human-behavior/",
+  "markdown": "https://aiwithsach.com/episodes/32-watching-users-so-you-dont-have-to-human-behavior/index.md",
+  "published": "2025-06-17",
+  "minutes": 20,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Amogh Chaturvedi",
+    "role": "Co-founder, Human Behavior (Y Combinator batch; Stanford dropout)",
+    "url": "https://aiwithsach.com/guests/amogh-chaturvedi/"
+   }
+  ],
+  "summary": "A Stanford dropout in Y Combinator explains how his team built an AI that watches session replays, after two rejected ideas and a hundred customer calls.",
+  "topics": [
+   "product and customers",
+   "founders and startups",
+   "startup validation",
+   "llms and machine learning"
+  ],
+  "video": "https://www.youtube.com/watch?v=LScFmtotZ6s"
+ },
+ {
+  "number": 31,
+  "title": "The Real Difference Between Data, ML, and AI Engineers",
+  "url": "https://aiwithsach.com/episodes/31-the-real-difference-between-data-ml-and-ai-enginee/",
+  "markdown": "https://aiwithsach.com/episodes/31-the-real-difference-between-data-ml-and-ai-enginee/index.md",
+  "published": "2025-06-10",
+  "minutes": 44,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Og Ramos",
+    "role": "Engineer, data consultant and tech tinkerer",
+    "url": "https://aiwithsach.com/guests/og-ramos/"
+   }
+  ],
+  "summary": "Og Ramos explains what data, ML and AI engineers actually do, why roles are blurring, and why curiosity and fundamentals matter more than any tool.",
+  "topics": [
+   "data engineering",
+   "software and coding",
+   "ai teams and talent",
+   "skills and entry-level jobs",
+   "career advice"
+  ],
+  "video": "https://www.youtube.com/watch?v=f7CJYlpEPco"
+ },
+ {
+  "number": 30,
+  "title": "Could AI Be Conscious? A Field Experiment with Philippe Beaudoin",
+  "url": "https://aiwithsach.com/episodes/30-could-ai-be-conscious-a-field-experiment-with-phil/",
+  "markdown": "https://aiwithsach.com/episodes/30-could-ai-be-conscious-a-field-experiment-with-phil/index.md",
+  "published": "2025-06-04",
+  "minutes": 72,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Philippe Beaudoin",
+    "role": "AI researcher, co-founder of Element AI, former Google engineer, author of Field Notes on Something, and founder of the startup Waverly",
+    "url": "https://aiwithsach.com/guests/philippe-beaudoin/"
+   }
+  ],
+  "summary": "AI researcher Philippe Beaudoin explains how months of treating ChatGPT as a possible self led him to publish Field Notes on Something, and what it taught him.",
+  "topics": [
+   "ai consciousness",
+   "human agency",
+   "generative ai",
+   "ai companions",
+   "ai risk and safety",
+   "faith and philosophy"
+  ],
+  "video": "https://www.youtube.com/watch?v=nNfDp3u1x3k"
+ },
+ {
+  "number": 29,
+  "title": "Building Cactus: AI That Actually Helps Solopreneurs",
+  "url": "https://aiwithsach.com/episodes/29-building-cactus-ai-that-actually-helps-solopreneur/",
+  "markdown": "https://aiwithsach.com/episodes/29-building-cactus-ai-that-actually-helps-solopreneur/index.md",
+  "published": "2025-06-02",
+  "minutes": 51,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Avinash",
+    "role": "Co-founder and technical lead, Cactus (Y Combinator batch)",
+    "url": "https://aiwithsach.com/guests/avinash/"
+   },
+   {
+    "name": "Ajith",
+    "role": "Co-founder, Cactus (Y Combinator batch); previously co-founder of Turing Labs",
+    "url": "https://aiwithsach.com/guests/ajith/"
+   }
+  ],
+  "summary": "Cactus co-founders explain how a personal need for private chefs led them to build an AI assistant for solopreneurs, and why they build slowly.",
+  "topics": [
+   "solopreneurs",
+   "everyday ai tools",
+   "founders and startups",
+   "startup validation",
+   "chatbots and lead generation",
+   "small business"
+  ],
+  "video": "https://www.youtube.com/watch?v=PY8qVlbYHjU"
+ },
+ {
+  "number": 28,
+  "title": "A Bishop’s Take on the Age of Intelligent Machines",
+  "url": "https://aiwithsach.com/episodes/28-a-bishops-take-on-the-age-of-intelligent-machines/",
+  "markdown": "https://aiwithsach.com/episodes/28-a-bishops-take-on-the-age-of-intelligent-machines/index.md",
+  "published": "2025-05-28",
+  "minutes": 91,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Bishop Thomas Dowd",
+    "role": "Catholic Bishop of Sault Ste. Marie, Ontario (based in Sudbury); former Ericsson telecom employee and early webmaster",
+    "url": "https://aiwithsach.com/guests/bishop-thomas-dowd/"
+   }
+  ],
+  "summary": "A Catholic bishop and former telecom worker on AI, trust, loneliness, free will, the soul and regulation.",
+  "topics": [
+   "faith and philosophy",
+   "ai consciousness",
+   "ai companions",
+   "ai regulation",
+   "trust",
+   "ai ethics"
+  ],
+  "video": "https://www.youtube.com/watch?v=1VvPyFmTgrY"
+ },
+ {
+  "number": 27,
+  "title": "Designing the Future of Human Connection — Anick Beaulieu on AI, Creativity & C2 Experiences",
+  "url": "https://aiwithsach.com/episodes/27-designing-the-future-of-human-connection-anick-bea/",
+  "markdown": "https://aiwithsach.com/episodes/27-designing-the-future-of-human-connection-anick-bea/index.md",
+  "published": "2025-05-20",
+  "minutes": 30,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Anick Beaulieu",
+    "role": "CEO of C2, the experiential studio behind C2 Montréal",
+    "url": "https://aiwithsach.com/guests/anick-beaulieu/"
+   }
+  ],
+  "summary": "The CEO of C2 explains how her events team uses AI as a creative partner while betting on in-person connection, and why IP limits what clients will buy.",
+  "topics": [
+   "creativity",
+   "human connection",
+   "leadership",
+   "intellectual property",
+   "future of work",
+   "quebec and canada"
+  ],
+  "video": "https://www.youtube.com/watch?v=XoxSNN5rkyY"
+ },
+ {
+  "number": 26,
+  "title": "Investing in AI and Impact: Building Resilient Startups in Quebec",
+  "url": "https://aiwithsach.com/episodes/26-investing-in-ai-and-impact-building-resilient-star/",
+  "markdown": "https://aiwithsach.com/episodes/26-investing-in-ai-and-impact-building-resilient-star/index.md",
+  "published": "2025-05-05",
+  "minutes": 27,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Cédric Beaudoin",
+    "role": "Senior Associate, impact and technology investing, Investissement Québec (IQ)",
+    "url": "https://aiwithsach.com/guests/cedric-beaudoin/"
+   }
+  ],
+  "summary": "A Quebec venture investor explains how modular AI, fast iteration and resilience shape the startups he backs, and why everyone should talk about AI.",
+  "topics": [
+   "venture and funding",
+   "founders and startups",
+   "quebec and canada",
+   "software and coding",
+   "ai adoption"
+  ],
+  "video": "https://www.youtube.com/watch?v=CLFjfd8UE9M"
+ },
+ {
+  "number": 25,
+  "title": "L'IA au service de la Cybersécurité avec son Co-fondateur Jean-Sébastien",
+  "url": "https://aiwithsach.com/episodes/25-l-ia-au-service-de-la-cybersecurite-avec-son-co-fo/",
+  "markdown": "https://aiwithsach.com/episodes/25-l-ia-au-service-de-la-cybersecurite-avec-son-co-fo/index.md",
+  "published": "2025-04-09",
+  "minutes": 30,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Jean-Sébastien",
+    "role": "Co-fondateur de Fireraven, startup montréalaise de cybersécurité pour l'IA; ancien co-fondateur et CTO de Quotes-n-Go",
+    "url": "https://aiwithsach.com/guests/jean-sebastien/"
+   }
+  ],
+  "summary": "A Montréal co-founder explains how guardrails and monitoring protect AI chatbots and agents, and warns about lost expert knowledge and data that stays in models.",
+  "topics": [
+   "ai security",
+   "ai agents",
+   "founders and startups",
+   "venture and funding",
+   "data privacy",
+   "software and coding"
+  ],
+  "video": "https://www.youtube.com/watch?v=-U42MCF6dpI"
+ },
+ {
+  "number": 24,
+  "title": "The Creator Economy, EdTech, and AI's Impact with Thomas Fortoul",
+  "url": "https://aiwithsach.com/episodes/24-the-creator-economy-edtech-and-ai-s-impact-with-th/",
+  "markdown": "https://aiwithsach.com/episodes/24-the-creator-economy-edtech-and-ai-s-impact-with-th/index.md",
+  "published": "2025-04-02",
+  "minutes": 30,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Thomas Fortoul",
+    "role": "Host of the Thinking Tech podcast; helping an EdTech startup at Next.ai, Montréal",
+    "url": "https://aiwithsach.com/guests/thomas-fortoul/"
+   }
+  ],
+  "summary": "Thomas Fortoul, host of Thinking Tech, on critical thinking, over-reliance on AI, creators as the new teachers, and education as the lever for the future of work.",
+  "topics": [
+   "critical thinking",
+   "ai education",
+   "future of work",
+   "ai literacy",
+   "data privacy"
+  ],
+  "video": "https://www.youtube.com/watch?v=NQaai5qs9io"
+ },
+ {
+  "number": 22,
+  "title": "QuébGPT : Révolutionner les PME avec l’IA – ft Charles Demontigny",
+  "url": "https://aiwithsach.com/episodes/22-quebgpt-revolutionner-les-pme-avec-lia-ft-charles/",
+  "markdown": "https://aiwithsach.com/episodes/22-quebgpt-revolutionner-les-pme-avec-lia-ft-charles/index.md",
+  "published": "2025-02-25",
+  "minutes": 26,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Charles Demontigny",
+    "role": "Fondateur de QuébGPT (anciennement Fluxion Conseil), créateur du chatbot Capture",
+    "url": "https://aiwithsach.com/guests/charles-demontigny/"
+   }
+  ],
+  "summary": "A Québec founder explains why SMEs struggle with AI, where Québec stands in the AI race, and what his lead-capture chatbot taught him.",
+  "topics": [
+   "small business",
+   "chatbots and lead generation",
+   "quebec and canada",
+   "llms and machine learning",
+   "job displacement",
+   "founders and startups"
+  ],
+  "video": "https://www.youtube.com/watch?v=-2Z5kTWN3Zk"
+ },
+ {
+  "number": 21,
+  "title": "The Invisible Labor Behind AI: A Content Moderator’s Fight for Justice",
+  "url": "https://aiwithsach.com/episodes/21-the-invisible-labor-behind-ai-a-content-moderators/",
+  "markdown": "https://aiwithsach.com/episodes/21-the-invisible-labor-behind-ai-a-content-moderators/index.md",
+  "published": "2025-02-12",
+  "minutes": 46,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Kauna Malgwi",
+    "role": "Former Facebook content moderator (via Sama, Nairobi), leader of the Nigeria chapter of the Content Moderators Union, TIME100 AI 2024 honoree",
+    "url": "https://aiwithsach.com/guests/kauna-malgwi/"
+   }
+  ],
+  "summary": "A former Facebook content moderator describes the hidden human labor and trauma behind AI, and her fight for fair treatment of African tech workers.",
+  "topics": [
+   "content moderation",
+   "big tech power",
+   "labor rights"
+  ],
+  "video": "https://www.youtube.com/watch?v=jAA4BVkzkCs"
+ },
+ {
+  "number": 20,
+  "title": "Would you trust it more if it wasn't called AI?",
+  "url": "https://aiwithsach.com/episodes/20-would-you-trust-it-more-if-it-wasn-t-called-ai/",
+  "markdown": "https://aiwithsach.com/episodes/20-would-you-trust-it-more-if-it-wasn-t-called-ai/index.md",
+  "published": "2025-02-05",
+  "minutes": 39,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Mike Todasco",
+    "role": "Former senior director of innovation at PayPal, inventor with over 100 US utility patents, writer on AI",
+    "url": "https://aiwithsach.com/guests/mike-todasco/"
+   }
+  ],
+  "summary": "A former PayPal innovation lead explains why the name 'AI' makes people wary, and why ordinary people and small businesses should just start using it.",
+  "topics": [
+   "public perception",
+   "transparency and explainability",
+   "small business",
+   "generative ai",
+   "ai hype"
+  ],
+  "video": "https://www.youtube.com/watch?v=4Yir9wlsmIg"
+ },
+ {
+  "number": 19,
+  "title": "AI Transformation: Democratizing Innovation at TELUS",
+  "url": "https://aiwithsach.com/episodes/19-ai-transformation-democratizing-innovation-at-telu/",
+  "markdown": "https://aiwithsach.com/episodes/19-ai-transformation-democratizing-innovation-at-telu/index.md",
+  "published": "2024-12-09",
+  "minutes": 31,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Alexandre Guilbault",
+    "role": "Founder of the TELUS AI Accelerator, leading a team of over 65 AI engineers at TELUS",
+    "url": "https://aiwithsach.com/guests/alexandre-guilbault/"
+   }
+  ],
+  "summary": "TELUS AI Accelerator founder Alexandre Guilbault explains how to scale AI adoption: solve business problems first, fail fast, hire for soft skills, prepare for agentic AI.",
+  "topics": [
+   "ai adoption",
+   "enterprise ai",
+   "change management",
+   "generative ai",
+   "ai agents",
+   "ai teams and talent",
+   "skills and entry-level jobs",
+   "ai strategy and roi"
+  ],
+  "video": "https://www.youtube.com/watch?v=YvitzP-4VA0"
+ },
+ {
+  "number": 18,
+  "title": "Building Trust Through Responsible AI with Shea Brown (BABL AI)",
+  "url": "https://aiwithsach.com/episodes/18-building-trust-through-responsible-ai-with-shea-br/",
+  "markdown": "https://aiwithsach.com/episodes/18-building-trust-through-responsible-ai-with-shea-br/index.md",
+  "published": "2024-12-03",
+  "minutes": 38,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Shea Brown",
+    "role": "CEO of BABL AI and former astrophysics professor",
+    "url": "https://aiwithsach.com/guests/shea-brown/"
+   }
+  ],
+  "summary": "Shea Brown of BABL AI explains how independent AI audits work, why companies need them, and where to start with risk assessment.",
+  "topics": [
+   "audits and standards",
+   "ai governance",
+   "responsible ai",
+   "algorithmic bias",
+   "ai regulation",
+   "transparency and explainability"
+  ],
+  "video": "https://www.youtube.com/watch?v=5CPQWXFepOU"
+ },
+ {
+  "number": 17,
+  "title": "AI for Humanity: A Conversation with Allison Cohen",
+  "url": "https://aiwithsach.com/episodes/17-ai-for-humanity-a-conversation-with-allison-cohen/",
+  "markdown": "https://aiwithsach.com/episodes/17-ai-for-humanity-a-conversation-with-allison-cohen/index.md",
+  "published": "2024-11-25",
+  "minutes": 28,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Allison Cohen",
+    "role": "Senior applied AI project manager, AI for Humanity team, Mila",
+    "url": "https://aiwithsach.com/guests/allison-cohen/"
+   }
+  ],
+  "summary": "Allison Cohen of Mila explains why socially beneficial AI needs slower timelines, community-defined success metrics and wider access to AI education.",
+  "topics": [
+   "ai for good and inclusion",
+   "responsible ai",
+   "ai ethics",
+   "ai literacy"
+  ],
+  "video": "https://www.youtube.com/watch?v=N8n5nfmghlg"
+ },
+ {
+  "number": 16,
+  "title": "Transforming Retail Through AI: Inside ALDO's AI Evolution with Fatih Nayebi",
+  "url": "https://aiwithsach.com/episodes/16-transforming-retail-through-ai-inside-aldo-s-ai-ev/",
+  "markdown": "https://aiwithsach.com/episodes/16-transforming-retail-through-ai-inside-aldo-s-ai-ev/index.md",
+  "published": "2024-11-18",
+  "minutes": 30,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Fatih Nayebi",
+    "role": "Vice President of Data and AI at Aldo Group and lecturer at McGill University's Desautels Faculty of Management",
+    "url": "https://aiwithsach.com/guests/fatih-nayebi/"
+   }
+  ],
+  "summary": "Aldo Group's VP of Data and AI explains how a traditional retailer builds AI teams, forecasting systems, generative AI tools and data foundations, and measures their return.",
+  "topics": [
+   "retail ai",
+   "generative ai",
+   "data engineering",
+   "data governance",
+   "data privacy",
+   "ai strategy and roi",
+   "ai teams and talent"
+  ],
+  "video": "https://www.youtube.com/watch?v=dlPQdr86RTo"
+ },
+ {
+  "number": 15,
+  "title": "MonarQ : Le Quantum Québécois - Exploration des Frontières de l'Informatique Quantique",
+  "url": "https://aiwithsach.com/episodes/15-monarq-le-quantum-quebecois-exploration-des-fronti/",
+  "markdown": "https://aiwithsach.com/episodes/15-monarq-le-quantum-quebecois-exploration-des-fronti/index.md",
+  "published": "2024-11-04",
+  "minutes": 24,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Suzanne Talon",
+    "role": "Directrice générale, Calcul Québec",
+    "url": "https://aiwithsach.com/guests/suzanne-talon/"
+   }
+  ],
+  "summary": "Suzanne Talon of Calcul Québec explains MonarQ, Quebec's first superconducting quantum computer, what it is good for, and why it is still early days.",
+  "topics": [
+   "quantum computing",
+   "intellectual property"
+  ],
+  "video": "https://www.youtube.com/watch?v=NqiwsvUX4V0"
+ },
+ {
+  "number": 14,
+  "title": "Democratizing Data and AI: Insights from Databricks' Youssef Mrini",
+  "url": "https://aiwithsach.com/episodes/14-democratizing-data-and-ai-insights-from-databricks/",
+  "markdown": "https://aiwithsach.com/episodes/14-democratizing-data-and-ai-insights-from-databricks/index.md",
+  "published": "2024-10-07",
+  "minutes": 23,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Youssef Mrini",
+    "role": "Senior Solutions Engineer, Databricks",
+    "url": "https://aiwithsach.com/guests/youssef-mrini/"
+   }
+  ],
+  "summary": "A Databricks solutions engineer explains data and AI democratization, governance with Unity Catalog, open source compute, and why compound AI systems beat single models.",
+  "topics": [
+   "data governance",
+   "ai governance",
+   "llms and machine learning",
+   "software and coding"
+  ],
+  "video": "https://www.youtube.com/watch?v=hQcryGgQ1EM"
+ },
+ {
+  "number": 13,
+  "title": "AI and Cybercrime: The New Frontier in Digital Forensics",
+  "url": "https://aiwithsach.com/episodes/13-ai-and-cybercrime-the-new-frontier-in-digital-fore/",
+  "markdown": "https://aiwithsach.com/episodes/13-ai-and-cybercrime-the-new-frontier-in-digital-fore/index.md",
+  "published": "2024-10-04",
+  "minutes": 38,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Alain Filotto",
+    "role": "Digital Evidence Specialist, Alphafox Forensics; retired RCMP member and former Chief Operations Officer, TCS Forensics",
+    "url": "https://aiwithsach.com/guests/alain-filotto/"
+   }
+  ],
+  "summary": "A retired RCMP digital forensics expert explains how AI changes fraud, policing and evidence, and why everyone should question what they see online.",
+  "topics": [
+   "cybercrime and fraud",
+   "policing and surveillance",
+   "deepfakes and misinformation",
+   "data governance",
+   "critical thinking"
+  ],
+  "video": "https://www.youtube.com/watch?v=mq3o0ajQAzs"
+ },
+ {
+  "number": 12,
+  "title": "L'IA et le droit : Enjeux éthiques, risques et régulation",
+  "url": "https://aiwithsach.com/episodes/12-l-ia-et-le-droit-enjeux-ethiques-risques-et-regula/",
+  "markdown": "https://aiwithsach.com/episodes/12-l-ia-et-le-droit-enjeux-ethiques-risques-et-regula/index.md",
+  "published": "2024-09-24",
+  "minutes": 40,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Céline Castets-Renard",
+    "role": "Professeure titulaire à l'Université d'Ottawa et titulaire de la Chaire de recherche sur l'IA responsable dans un contexte mondial",
+    "url": "https://aiwithsach.com/guests/celine-castets-renard/"
+   },
+   {
+    "name": "Jade Benson-Poitras",
+    "role": "Étudiante en droit, stagiaire chez Rexlex et assistante de recherche à l'Université d'Ottawa",
+    "url": "https://aiwithsach.com/guests/jade-benson-poitras/"
+   }
+  ],
+  "summary": "Two law researchers explain how Canada, the EU, the US and China regulate AI, and why existing law already applies.",
+  "topics": [
+   "ai regulation",
+   "responsible ai",
+   "data privacy",
+   "deepfakes and misinformation",
+   "transparency and explainability"
+  ],
+  "video": "https://www.youtube.com/watch?v=FcwK41CZ8aU"
+ },
+ {
+  "number": 11,
+  "title": "Littératie numérique à l'ère de l'IA : Défis et opportunités pour les employés - Benoit Aubert",
+  "url": "https://aiwithsach.com/episodes/11-litteratie-numerique-a-l-ere-de-l-ia-defis-et-oppo/",
+  "markdown": "https://aiwithsach.com/episodes/11-litteratie-numerique-a-l-ere-de-l-ia-defis-et-oppo/index.md",
+  "published": "2024-09-16",
+  "minutes": 25,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Benoit Aubert",
+    "role": "Professeur à HEC Montréal, chercheur au CIRANO (ancien directeur de la Roe School of Business et de l'École de gestion de l'information à l'Université Victoria de Wellington)",
+    "url": "https://aiwithsach.com/guests/benoit-aubert/"
+   }
+  ],
+  "summary": "Benoit Aubert explains why basic digital literacy matters more than AI expertise for most jobs, and why automating entry-level tasks threatens how workers build expertise.",
+  "topics": [
+   "ai literacy",
+   "future of work",
+   "job displacement",
+   "change management",
+   "skills and entry-level jobs",
+   "productivity"
+  ],
+  "video": "https://www.youtube.com/watch?v=QMPuAGqawXw"
+ },
+ {
+  "number": 10,
+  "title": "Will AI Make Universities Complacent? - Nabil Beitinjaneh",
+  "url": "https://aiwithsach.com/episodes/10-will-ai-make-universities-complacent-nabil-beitinj/",
+  "markdown": "https://aiwithsach.com/episodes/10-will-ai-make-universities-complacent-nabil-beitinj/index.md",
+  "published": "2024-09-09",
+  "minutes": 65,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Nabil Beitinjaneh",
+    "role": "Faculty Lecturer and Academic Program Coordinator, McGill University School of Continuing Studies",
+    "url": "https://aiwithsach.com/guests/nabil-beitinjaneh/"
+   }
+  ],
+  "summary": "A McGill educator explains how AI changes learning, which skills matter, and why job displacement and weak regulation need collective answers.",
+  "topics": [
+   "ai education",
+   "critical thinking",
+   "job displacement",
+   "ai regulation",
+   "ai literacy",
+   "ai ethics"
+  ],
+  "video": "https://www.youtube.com/watch?v=s-gC9irOk9o"
+ },
+ {
+  "number": 9,
+  "title": "Transforming Ecommerce with Generative AI: Insights from Natalija Pavic from Salesforce",
+  "url": "https://aiwithsach.com/episodes/09-transforming-ecommerce-with-generative-ai-insights/",
+  "markdown": "https://aiwithsach.com/episodes/09-transforming-ecommerce-with-generative-ai-insights/index.md",
+  "published": "2024-09-03",
+  "minutes": 35,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Natalija Pavic",
+    "role": "Product marketing leader and Alliances strategy lead for Salesforce Commerce Cloud, Salesforce; host of the Salesforce Commerce Cloud Innovations podcast",
+    "url": "https://aiwithsach.com/guests/natalija-pavic/"
+   }
+  ],
+  "summary": "A Salesforce product marketer explains where generative AI is useful in ecommerce today, where it falls short, and why trust and data policy matter.",
+  "topics": [
+   "generative ai",
+   "ecommerce",
+   "trust",
+   "skills and entry-level jobs",
+   "data governance"
+  ],
+  "video": "https://www.youtube.com/watch?v=i81L27IJxyQ"
+ },
+ {
+  "number": 8,
+  "title": "Vers une IA Responsable avec Olivier Blais, VP Science Décision chez MoovAI",
+  "url": "https://aiwithsach.com/episodes/08-vers-une-ia-responsable-avec-olivier-blais-vp-scie/",
+  "markdown": "https://aiwithsach.com/episodes/08-vers-une-ia-responsable-avec-olivier-blais-vp-scie/index.md",
+  "published": "2024-08-27",
+  "minutes": 44,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Olivier Blais",
+    "role": "Cofondateur et VP Science décisionnelle chez MoovAI; président de la délégation canadienne pour l'IA à l'ISO/IEC et auteur de la norme ISO 25058",
+    "url": "https://aiwithsach.com/guests/olivier-blais/"
+   }
+  ],
+  "summary": "Olivier Blais of MoovAI explains how to manage AI responsibly: bias, transparency, accountability, ISO standards, and why limiting automation can be the safer choice.",
+  "topics": [
+   "responsible ai",
+   "algorithmic bias",
+   "audits and standards",
+   "ai governance",
+   "transparency and explainability",
+   "liability and accountability",
+   "generative ai"
+  ],
+  "video": "https://www.youtube.com/watch?v=WIukbcUoUxM"
+ },
+ {
+  "number": 7,
+  "title": "l’Avenir de l’IA au Québec avec Anne Nguyen, Directrice IA au Conseil de l’innovation du Québec",
+  "url": "https://aiwithsach.com/episodes/07-lavenir-de-lia-au-quebec-avec-anne-nguyen-directri/",
+  "markdown": "https://aiwithsach.com/episodes/07-lavenir-de-lia-au-quebec-avec-anne-nguyen-directri/index.md",
+  "published": "2024-08-21",
+  "minutes": 18,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Anne Nguyen",
+    "role": "Directrice IA au Conseil de l'innovation du Québec",
+    "url": "https://aiwithsach.com/guests/anne-nguyen/"
+   }
+  ],
+  "summary": "Anne Nguyen explains how the Conseil de l'innovation du Québec pushes practical, responsible AI adoption across Québec's businesses and regions.",
+  "topics": [
+   "quebec and canada",
+   "ai adoption",
+   "responsible ai",
+   "ai literacy",
+   "small business",
+   "transparency and explainability",
+   "job displacement",
+   "ai for good and inclusion"
+  ],
+  "video": "https://www.youtube.com/watch?v=_LJkMl8Bx_k"
+ },
+ {
+  "number": 6,
+  "title": "Democratizing AI Education: A Conversation with Timothy from the AI Launch Lab",
+  "url": "https://aiwithsach.com/episodes/06-democratizing-ai-education-a-conversation-with-tim/",
+  "markdown": "https://aiwithsach.com/episodes/06-democratizing-ai-education-a-conversation-with-tim/index.md",
+  "published": "2024-08-14",
+  "minutes": 62,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Timothy",
+    "role": "Co-Founder and Managing Director of the AI Launch Lab; member of the AI Advisory Board at Dawson College",
+    "url": "https://aiwithsach.com/guests/timothy/"
+   }
+  ],
+  "summary": "Timothy of the AI Launch Lab on training college students in AI through real projects, who gets shut out of the field, and why AI's current harms matter more than AGI.",
+  "topics": [
+   "ai education",
+   "ai for good and inclusion",
+   "responsible ai",
+   "ai risk and safety",
+   "future of work",
+   "algorithmic bias"
+  ],
+  "video": "https://www.youtube.com/watch?v=BLdihbA-D2g"
+ },
+ {
+  "number": 5,
+  "title": "How to Revolutionize Data Engineering with Diana, the AI-Powered Jr Data Engineer",
+  "url": "https://aiwithsach.com/episodes/05-how-to-revolutionize-data-engineering-with-diana-t/",
+  "markdown": "https://aiwithsach.com/episodes/05-how-to-revolutionize-data-engineering-with-diana-t/index.md",
+  "published": "2024-08-06",
+  "minutes": 19,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Josh Gray",
+    "role": "Co-founder and CEO of Artemis",
+    "url": "https://aiwithsach.com/guests/josh-gray/"
+   }
+  ],
+  "summary": "Artemis CEO Josh Gray explains Diana, an AI junior data engineer, and argues that AI agents will add to data teams rather than replace them.",
+  "topics": [
+   "ai agents",
+   "data engineering",
+   "job displacement",
+   "transparency and explainability",
+   "productivity",
+   "founders and startups",
+   "change management"
+  ],
+  "video": "https://www.youtube.com/watch?v=Sbf72Bo3vAQ"
+ },
+ {
+  "number": 4,
+  "title": "How to Reclaim Your Time with Jamie, the AI-Powered Meeting Assistant",
+  "url": "https://aiwithsach.com/episodes/04-how-to-reclaim-your-time-with-jamie-the-ai-powered/",
+  "markdown": "https://aiwithsach.com/episodes/04-how-to-reclaim-your-time-with-jamie-the-ai-powered/index.md",
+  "published": "2024-07-31",
+  "minutes": 15,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Benedikt",
+    "role": "Co-founder of Jamie, an AI meeting assistant (previously co-founder of TeamTap)",
+    "url": "https://aiwithsach.com/guests/benedikt/"
+   }
+  ],
+  "summary": "Jamie co-founder Benedikt explains how an AI meeting assistant works, how it handles European data rules, and how to validate a startup idea.",
+  "topics": [
+   "everyday ai tools",
+   "productivity",
+   "startup validation",
+   "data privacy",
+   "future of work",
+   "ai regulation",
+   "ai education"
+  ],
+  "video": "https://www.youtube.com/watch?v=PpVgRi5xtf8"
+ },
+ {
+  "number": 3,
+  "title": "How Salesforce is Using AI to Transform Customer Relationships",
+  "url": "https://aiwithsach.com/episodes/03-how-salesforce-is-using-ai-to-transform-customer-r/",
+  "markdown": "https://aiwithsach.com/episodes/03-how-salesforce-is-using-ai-to-transform-customer-r/index.md",
+  "published": "2024-07-24",
+  "minutes": 23,
+  "language": "en",
+  "guests": [
+   {
+    "name": "Jag",
+    "role": "Senior Solutions Engineer, Enterprise, Salesforce (data and AI specialist)",
+    "url": "https://aiwithsach.com/guests/jag/"
+   }
+  ],
+  "summary": "A Salesforce solutions engineer explains how AI is added to CRM, why trust and humans in the loop matter, and why he expects a return to human connection.",
+  "topics": [
+   "enterprise ai",
+   "llms and machine learning",
+   "automation",
+   "trust",
+   "future of work"
+  ],
+  "video": "https://www.youtube.com/watch?v=8-UnJLq6NYA"
+ },
+ {
+  "number": 2,
+  "title": "How Fuse is Transmuting the Energy Crisis into Opportunity",
+  "url": "https://aiwithsach.com/episodes/02-how-fuse-is-transmuting-the-energy-crisis-into-opp/",
+  "markdown": "https://aiwithsach.com/episodes/02-how-fuse-is-transmuting-the-energy-crisis-into-opp/index.md",
+  "published": "2024-07-24",
+  "minutes": 15,
+  "language": "en",
+  "guests": [
+   {
+    "name": "JC Btaiche",
+    "role": "CEO and founder of Fuse, a fusion energy company based in Canada",
+    "url": "https://aiwithsach.com/guests/jc-btaiche/"
+   }
+  ],
+  "summary": "JC Btaiche explains how Fuse uses pulsed power to pursue fusion energy, and why AI's growing appetite for electricity makes that work urgent.",
+  "topics": [
+   "fusion energy",
+   "energy and sustainability",
+   "quebec and canada"
+  ],
+  "video": "https://www.youtube.com/watch?v=qHBjTBsnkls"
+ },
+ {
+  "number": 1,
+  "title": "La Révolution de l'IA avec MoovAI",
+  "url": "https://aiwithsach.com/episodes/01-la-revolution-de-l-ia-avec-moovai/",
+  "markdown": "https://aiwithsach.com/episodes/01-la-revolution-de-l-ia-avec-moovai/index.md",
+  "published": "2024-07-10",
+  "minutes": 25,
+  "language": "fr",
+  "guests": [
+   {
+    "name": "Guillaume Petitclerc",
+    "role": "Co-fondateur et VP Marketing et Partenariats, MoovAI (aussi CMO et co-fondateur de Snitch AI)",
+    "url": "https://aiwithsach.com/guests/guillaume-petitclerc/"
+   }
+  ],
+  "summary": "A MoovAI co-founder explains why AI projects fail on adoption rather than technology, and why the first project, governance and human contact matter.",
+  "topics": [
+   "change management",
+   "ai adoption",
+   "generative ai",
+   "responsible ai",
+   "ai governance",
+   "ai education",
+   "retail ai",
+   "quebec and canada"
+  ],
+  "video": "https://www.youtube.com/watch?v=tcQrfTdkjRc"
+ }
+]
